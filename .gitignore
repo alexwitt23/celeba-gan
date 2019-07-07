@@ -2,3 +2,5 @@ data/
 src/training/training_imgs/
 src/training/training_checkpoints/
 images.tfrec
+# Jupyter Notebook
+src/ipynb_checkpoints
