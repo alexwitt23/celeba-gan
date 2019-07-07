@@ -1,2 +1,4 @@
-./data/
+data/
+src/training_checkpoints
+src/training_imgs
 
