@@ -1,3 +1,4 @@
 data/
 src/training/training_imgs/
 src/training/training_checkpoints/
+images.tfrec
